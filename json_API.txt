@@ -1,0 +1,5 @@
+Source code: https://github.com/stleary/JSON-java
+
+Documents: http://stleary.github.io/JSON-java/index.html
+
+Release: https://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22org.json%22%20AND%20a%3A%22json%22
